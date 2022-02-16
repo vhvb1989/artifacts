@@ -1,2 +1,2 @@
 # artifacts
-keep my public artifacts
+keep my public artifacts :)
